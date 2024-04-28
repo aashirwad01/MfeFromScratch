@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "remoteVal/remoteApp";
+import "remoteCatalogVal/remoteCatalogValApp";
 
 
 import "./index.css";
